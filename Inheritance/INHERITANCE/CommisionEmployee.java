@@ -1,4 +1,6 @@
-public class CommisionEmployee extends Employee {
+package INHERITANCE;
+
+ public class CommisionEmployee extends Employee {
     private double commissionRate;
     private double grossSalary;
 
