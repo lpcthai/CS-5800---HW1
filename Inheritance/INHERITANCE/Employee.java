@@ -1,5 +1,4 @@
 package INHERITANCE;
-
 public class Employee {
     private String firstName;
     private String lastName;
@@ -11,7 +10,6 @@ public class Employee {
         this.lastName = lastName;
         this.socialSecurityNumber = socialSecurityNumber;
     }
-
     // Accessors (getters)
     public String getFirstName() {
         return firstName;
